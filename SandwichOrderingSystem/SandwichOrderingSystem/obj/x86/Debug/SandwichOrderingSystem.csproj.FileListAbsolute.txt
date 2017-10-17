@@ -1,0 +1,5 @@
+C:\Users\ankit.b.patel\Documents\Visual Studio 2010\Projects\SandwichOrderingSystem\SandwichOrderingSystem\bin\Debug\SandwichOrderingSystem.exe
+C:\Users\ankit.b.patel\Documents\Visual Studio 2010\Projects\SandwichOrderingSystem\SandwichOrderingSystem\bin\Debug\SandwichOrderingSystem.pdb
+C:\Users\ankit.b.patel\Documents\Visual Studio 2010\Projects\SandwichOrderingSystem\SandwichOrderingSystem\obj\x86\Debug\SandwichOrderingSystem.exe
+C:\Users\ankit.b.patel\Documents\Visual Studio 2010\Projects\SandwichOrderingSystem\SandwichOrderingSystem\obj\x86\Debug\SandwichOrderingSystem.pdb
+C:\Users\ankit.b.patel\Documents\Visual Studio 2010\Projects\SandwichOrderingSystem\SandwichOrderingSystem\obj\x86\Debug\SandwichOrderingSystem.csprojResolveAssemblyReference.cache
